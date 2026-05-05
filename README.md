@@ -30,6 +30,14 @@
 
 如果你想阅读源码或自行参与修改，本项目推荐使用 Python 3.9+。普通用户建议直接使用上方的免安装整合包。
 
+## License & 版权声明
+本项目基于开源协议开源，项目中集成使用了以下第三方开源组件，遵守对应开源协议：
+**LoFTR 模型**
+- 版权所有：Copyright © SenseTime Research, ZJU3DV
+- 开源协议：Apache License 2.0
+- 协议文件：本仓库已包含完整协议 [LICENSE](./LICENSE)
+- 项目地址：https://github.com/zju3dv/LoFTR
+
 1. 克隆项目到本地：
 ```bash
 git clone [https://github.com/你的用户名/你的项目名.git](https://github.com/你的用户名/你的项目名.git)
