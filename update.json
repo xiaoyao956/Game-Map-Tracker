@@ -1,5 +1,5 @@
 {
-    "latest_version": "6.3.0",
-    "download_url": "https://pan.baidu.com/s/12w5QJuFUd_J_4gWpsv8m_A?pwd=yx3n",
-    "release_notes": "【v6.3.0 更新日志】\n1. 新增sift算法粗定位，移除了记录传送点功能 \n2. 打开软件或传送任意位置后不再需要重新定位（左上角重新选点仍作为保底）\n3. 新增了路线编辑时右键某一点位时在其后面添加点位\n4. 修复了锁定后仍可能弹出鼠标箭头(我自己测试貌似不会了)\n5. 路线地图等资源共享网站www.mapforge.top"
+    "latest_version": "6.4.0",
+    "download_url": "https://pan.baidu.com/s/1HNXu0pRir4FcgkqeuVABgg?pwd=gwwn",
+    "release_notes": "【v6.4.0 更新日志】\n1. 新增了路线云端上传下载和共享功能 \n2. 优化了识别逻辑和速度\n路线上传下载功能：\n1.点击上传按钮可以上传路线供大家使用\n2.点击下载可以选择其他用户上传的路线自动下载到zizhi文件夹里（需要重启软件读取到新下载的路线）"
 }
